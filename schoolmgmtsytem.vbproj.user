@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ankit\source\repos\schoolmgmtsytem\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="addstudentdatagridview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="APPMAIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="certificate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="commom menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fee section.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="feepayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forget password.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gradesheet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login real.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="manage user.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="startloadingform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="student.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="studentmenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="studentprofileview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Subject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="teachermenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="teacherprofileview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view teachers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewstudents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
